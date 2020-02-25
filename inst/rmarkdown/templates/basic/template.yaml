@@ -2,4 +2,4 @@ name: basic report (HTML)
 description: >
   Template for basic report. This customises the basic HTML output
   to take up as little space as possible.
-create_dir: false
+create_dir: true

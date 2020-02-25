@@ -1,2 +1,5 @@
 ^basictemplate\.Rproj$
 ^\.Rproj\.user$
+^basictemplate\.Rcheck$
+^basictemplate.*\.tar\.gz$
+^basictemplate.*\.tgz$
