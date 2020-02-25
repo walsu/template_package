@@ -1,5 +1,3 @@
 name: basic report (HTML)
-description: >
-  Template for basic report. This customises the basic HTML output
-  to take up as little space as possible.
+description: My template
 create_dir: true
